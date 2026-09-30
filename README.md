@@ -1,4 +1,4 @@
 # GokulDemo
-This is my first git repository on this account
+This my first git repository on this new account
 <br>
 Author Gokul Kawde
